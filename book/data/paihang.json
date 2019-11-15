@@ -1,0 +1,265 @@
+{
+    "errno": 0,
+    "msg": "success",
+    "rankData": [
+        {
+        "title": "男生热榜",
+        "tid": 38,
+        "novelList": [{
+            "title": "不灭武尊",
+            "author": "梁家三少",
+            "bookId": "4295340277",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2226208649,1814456599&fm=179&app=35&f=JPEG?w=267&h=356&s=A8F46084DE73CBCC5C0AB81B030000D9",
+            "description": "【官网首发免费看，无广告，无错字！】一门被视为垃圾的功法，一个被同门视作废人的修炼狂人，在得到一枚阴阳玉佩之后，一切将彻底改变。十倍修炼速度，令古飞一再突破武道极限，千百年来已被人认定的铁律，被古飞一一打破！奇迹……古飞不相信奇迹，他相信的只有血和汗，在这个武道已经没落，真正的武道奥义已经失传的腾龙大陆修炼界，且看古飞如何以武逆天，脚踏道术神通，拳打妖魔鬼怪，怀抱红颜绝色，成就不灭武尊！",
+            "function": "openDetail",
+            "tagList": ["男频", "游戏", "虚拟人生"],
+            "status": "连载",
+            "followersNum": "1722000"
+        }, {
+            "title": "修罗武神",
+            "author": "善良的蜜蜂",
+            "bookId": "4306057289",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=727438517,2895089647&fm=179&app=35&f=JPEG?w=267&h=356&s=8486D517DAD37FEFF4B09DE603007021",
+            "description": "论潜力，不算天才，可玄功武技，皆可无师自通。 论实力，任凭你有万千至宝，但定不敌我界灵大军。 我是谁？天下众生视我为修罗，却不知，我以修罗成武神。…………………………想看修罗武神番外。",
+            "function": "openDetail",
+            "tagList": ["男频", "玄幻", "异界大陆"],
+            "status": "连载",
+            "followersNum": "1702000"
+        }, {
+            "title": "超级兵王",
+            "author": "步千帆",
+            "bookId": "4306057283",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2096909033,4032862376&fm=179&app=35&f=JPEG?w=267&h=356&s=03B35C874AD761E98E9504720300C060",
+            "description": "他是雇佣兵世界的王者，他是令各国元首头疼的兵王！为朋友，他甘愿两肋插刀；为亲人，不惜血溅五步！是龙，终要翱翔于九天之上，携风云之势，一路高歌猛进，混的风生水起。新书《辣手神医》上传，继续支持，点击，鲜花，一样都不能少！",
+            "function": "openDetail",
+            "tagList": ["男频", "都市", "都市生活"],
+            "status": "连载",
+            "followersNum": "1726500"
+        }],
+        "bottom": {
+            "title": "进入男生热榜",
+            "query": "男生热榜",
+            "function": "openChannel",
+            "queryParams": [{
+                "channel": "男频"
+            }],
+            "path": "rankdetail"
+        }
+    },
+     {
+        "title": "玄幻热门榜",
+        "tid": 32,
+        "novelList": [{
+            "title": "逆天邪神",
+            "author": "火星引力",
+            "bookId": "4294987752",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=1194791423,435791944&fm=179&app=35&f=JPEG?w=244&h=325&s=9DA70D9E4E9365FF5D11D1E303003035",
+            "description": "掌天毒之珠，承邪神之血，修逆天之力，一代邪神，君临天下！",
+            "function": "openDetail",
+            "tagList": ["男频", "玄幻", "东方玄幻"],
+            "status": "连载",
+            "followersNum": "1644000"
+        }, {
+            "title": "修罗武神",
+            "author": "善良的蜜蜂",
+            "bookId": "4306057289",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=727438517,2895089647&fm=179&app=35&f=JPEG?w=267&h=356&s=8486D517DAD37FEFF4B09DE603007021",
+            "description": "论潜力，不算天才，可玄功武技，皆可无师自通。 论实力，任凭你有万千至宝，但定不敌我界灵大军。 我是谁？天下众生视我为修罗，却不知，我以修罗成武神。…………………………想看修罗武神番外。",
+            "function": "openDetail",
+            "tagList": ["男频", "玄幻", "异界大陆"],
+            "status": "连载",
+            "followersNum": "1702000"
+        }, {
+            "title": "战神狂飙",
+            "author": "一念汪洋",
+            "bookId": "4305141210",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3142558424,1629359188&fm=179&app=35&f=JPEG?w=267&h=356&s=D78C6EAE485067ED0A3128250300306B",
+            "description": "叶无缺，本来天资绝世，惊才绝艳，但为了身世之谜甘愿寂灭，装成废物凝练斗战圣法本源，整整十年！ 如今十年期满，真龙归来！ 一条碾压无数奇才鬼才、打爆各种王体神体、生撕诸天神话令万界颤抖的无敌之路至此展开！ “你说你资质无敌？悟性逆天？血脉高贵？” “抱歉，那要分和谁比，和我比，你会哭的。” 战神崛起，一路狂飙！",
+            "function": "openDetail",
+            "tagList": ["男频", "玄幻", "东方玄幻"],
+            "status": "连载",
+            "followersNum": "1513000"
+        }],
+        "bottom": {
+            "title": "进入玄幻热门榜",
+            "query": "玄幻热门榜",
+            "function": "openChannel",
+            "queryParams": [{
+                "cate": "玄幻"
+            }],
+            "path": "rankdetail"
+        }
+    }, {
+        "title": "都市热门榜",
+        "tid": 32,
+        "novelList": [{
+            "title": "超级兵王",
+            "author": "步千帆",
+            "bookId": "4306057283",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2096909033,4032862376&fm=179&app=35&f=JPEG?w=267&h=356&s=03B35C874AD761E98E9504720300C060",
+            "description": "他是雇佣兵世界的王者，他是令各国元首头疼的兵王！为朋友，他甘愿两肋插刀；为亲人，不惜血溅五步！是龙，终要翱翔于九天之上，携风云之势，一路高歌猛进，混的风生水起。新书《辣手神医》上传，继续支持，点击，鲜花，一样都不能少！",
+            "function": "openDetail",
+            "tagList": ["男频", "都市", "都市生活"],
+            "status": "连载",
+            "followersNum": "1726500"
+        }, {
+            "title": "最强狂兵",
+            "author": "烈焰滔滔",
+            "bookId": "4295297081",
+            "cover": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2149390620,3709233930&fm=179&app=35&f=JPEG?w=244&h=326&s=1E340D8C4AB635AF66B01DC40300A0B0",
+            "description": "一代兵王含恨离开部队，销声匿迹几年后，逆天强者强势回归都市，再度掀起血雨腥风！简单粗暴是我的行事艺术，不服就干是我的生活态度！看顶级狂少如何纵横都市，书写属于他的天王传奇！依旧极爽极热血！",
+            "function": "openDetail",
+            "tagList": ["男频", "都市", "谍战特工"],
+            "status": "连载",
+            "followersNum": "1656000"
+        }, {
+            "title": "狼与兄弟",
+            "author": "纯银耳坠",
+            "bookId": "4306160766",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3341223605,1717280320&fm=179&app=35&f=JPEG?w=267&h=356&s=BA176084081225ED43A71D910300809A",
+            "description": "狼，看似冷酷的外表隐藏着无限柔情，为了家人和兄弟甘愿牺牲自己！ 犹如主角王赢的性格，冷酷的不是内心而是对世俗的漠视！ 他就像狼王一样无论在哪儿都能成为团队核心，带领着自己的兄弟出生入死，不离不弃！ 从大学时代的青涩到步入社会的坎坷，就像是一段不平凡的生存之路！ 他们像狼一样，团队合作无间，他们一起开拓、一起战斗、一起创造辉煌！ 纵然世事变迁无常，但永远不变的是那一起哭过笑过伤过的兄弟之情！",
+            "function": "openDetail",
+            "tagList": ["男频", "都市", "谍战特工"],
+            "status": "连载",
+            "followersNum": "1529000"
+        }],
+        "bottom": {
+            "title": "进入都市热门榜",
+            "query": "都市热门榜",
+            "function": "openChannel",
+            "queryParams": [{
+                "cate": "都市"
+            }],
+            "path": "rankdetail"
+        }
+    }, {
+        "title": "女生热榜",
+        "tid": 38,
+        "novelList": [{
+            "title": "帝凰之神医弃妃",
+            "author": "阿彩",
+            "bookId": "4294998273",
+            "cover": "https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/boxapp_novel/wh%3D267%2C357/sign=1b3927b407d79123e0b59c769b0375b1/e824b899a9014c08bfbf5f19017b02087af4f482.jpg",
+            "description": "【新书推荐《权妃之帝医风华》】大婚当天，她在郊外醒来，衣衫褴褛，在众人的鄙夷下，一步一个血印踏入皇城……她是无父无母任人欺凌的孤女，他是一人之下、万人之上的铁血王爷。她满身是伤，狼狈不堪。他遗世独立，风华无双。她卑微伏跪，他傲视天下。如此天差地别的两人，却阴差阳错地相遇……一件锦衣，遮她一身污秽，换她一世情深。21世纪天才女军医将身心托付，为这铁血王爷风华天下、舔刃饮血、倾尽一切，只求此生结发为夫妻，恩爱两不疑，却不想生死关头，他却挥剑斩断她的生路……医者：下医医病，中医医人，上医医国。神医凤轻尘，以医术救人治国平天下的传奇",
+            "function": "openDetail",
+            "tagList": ["女频", "古代言情", "穿越重生"],
+            "status": "完结",
+            "followersNum": "1747000"
+        }, {
+            "title": "武道大帝",
+            "author": "忘情至尊",
+            "bookId": "4306045426",
+            "cover": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=137354869,1513558362&fm=179&app=35&f=JPEG?w=267&h=356&s=2B61208C0B71ABE709384A960300A08E",
+            "description": "    少年罗修出身卑微，天赋一般，却意外融合生死法则本源所化至宝，从此身藏诸天生死轮，执掌轮回，开创无上神通，成就一代大帝，傲视古今",
+            "function": "openDetail",
+            "tagList": ["男频", "玄幻", "东方玄幻"],
+            "status": "连载",
+            "followersNum": "1584000"
+        }, {
+            "title": "少帅你老婆又跑了",
+            "author": "明药",
+            "bookId": "4306261898",
+            "cover": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3451552164,718222717&fm=179&app=35&f=JPEG?w=267&h=357&s=CBDF4E925AD969FFDECC4D41030030B2",
+            "description": "少帅说：“我家夫人是乡下女子，不懂时髦，你们不要欺负她！” 　　那些被少帅夫人抢尽了风头的名媛贵妇们欲哭无泪：到底谁欺负谁啊？ 　　少帅又说：“我家夫人娴静温柔，什么中医、枪法，她都不会的！” 　　那些被少帅夫人治好过的病患、被少帅夫人枪杀了的仇敌：少帅您是瞎了吗？ 　　“我家夫人小意柔情，以丈夫为天，我说一她从来不敢说二的！”少帅跪在搓衣板上，一脸豪气云天的说。 　　督军府的众副官：脸是个好东西，拜托少帅您要一下！",
+            "function": "openDetail",
+            "tagList": ["女频", "现代言情", "浪漫言情"],
+            "status": "连载",
+            "followersNum": "1444500"
+        }],
+        "bottom": {
+            "title": "进入女生热榜",
+            "query": "女生热榜",
+            "function": "openChannel",
+            "queryParams": [{
+                "channel": "女频"
+            }],
+            "path": "rankdetail"
+        }
+    }, {
+        "title": "古代言情榜",
+        "tid": 32,
+        "novelList": [{
+            "title": "帝凰之神医弃妃",
+            "author": "阿彩",
+            "bookId": "4294998273",
+            "cover": "https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/boxapp_novel/wh%3D267%2C357/sign=1b3927b407d79123e0b59c769b0375b1/e824b899a9014c08bfbf5f19017b02087af4f482.jpg",
+            "description": "【新书推荐《权妃之帝医风华》】大婚当天，她在郊外醒来，衣衫褴褛，在众人的鄙夷下，一步一个血印踏入皇城……她是无父无母任人欺凌的孤女，他是一人之下、万人之上的铁血王爷。她满身是伤，狼狈不堪。他遗世独立，风华无双。她卑微伏跪，他傲视天下。如此天差地别的两人，却阴差阳错地相遇……一件锦衣，遮她一身污秽，换她一世情深。21世纪天才女军医将身心托付，为这铁血王爷风华天下、舔刃饮血、倾尽一切，只求此生结发为夫妻，恩爱两不疑，却不想生死关头，他却挥剑斩断她的生路……医者：下医医病，中医医人，上医医国。神医凤轻尘，以医术救人治国平天下的传奇",
+            "function": "openDetail",
+            "tagList": ["女频", "古代言情", "穿越重生"],
+            "status": "完结",
+            "followersNum": "1747000"
+        }, {
+            "title": "法医狂妃",
+            "author": "谁家mm",
+            "bookId": "4305151746",
+            "cover": "https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/boxapp_novel/wh%3D267%2C357/sign=3e19c3a86a59252da342150602ac2f08/8b82b9014a90f603946dbdf53312b31bb151eda7.jpg",
+            "description": "她是21世纪女法医，医剖双学，一把手术刀，治得了活人，验得了死人。 一朝穿成京都柳家不受宠的庶出大小姐！  初遇，他绝色无双，她笑眯眯地问：“公子可是中药了？解吗？一次二百两，童叟无欺。” 他危险蹙眉，似在评判她的姿色是否能令他甘愿献身……  她愠怒，手中银针翻飞，刺中他七处大穴，再玩味地盯着他：“看，我厉害吧。” 话音刚落，她被这死王爷粗暴扯到身下：“你的针不管用，换个法子解，本王给你四百两。” “靠！”她悲剧了，儿子柳小黎就这么落在她肚子里了。",
+            "function": "openDetail",
+            "tagList": ["女频", "古代言情", "穿越重生"],
+            "status": "完结",
+            "followersNum": "1460500"
+        }, {
+            "title": "神医毒妃",
+            "author": "杨十六",
+            "bookId": "4308123528",
+            "cover": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2926407394,1896857114&fm=179&app=35&f=JPEG?w=267&h=356&s=7C96AD1F5501C2FA5EF13BEA03007024",
+            "description": "21世纪毒医世家传人，身怀异禀，医毒双绝，一朝穿越，成了东秦王朝文国公府嫡女白鹤染。生母惨死，生父不认，嫡母当权，姐妹伪善。熊熊斗志冉冉升起，这一世，她要换一种活法。欺我者，打！辱我者，杀！逼死我母？血债血偿！阴谋算计？不死不休！面对不要脸的所谓亲人，她一笑森然：欲毁我者，满门皆诛！然而，在这条戾气正浓的路上，偶尔也会出现偏差。她杀人放火，他火上浇油。她打家劫舍，他磨刀霍霍。",
+            "function": "openDetail",
+            "tagList": ["女频", "古代言情", "穿越重生"],
+            "status": "连载",
+            "followersNum": "1239000"
+        }],
+        "bottom": {
+            "title": "进入古代言情榜",
+            "query": "古代言情榜",
+            "function": "openChannel",
+            "queryParams": [{
+                "cate": "古代言情"
+            }],
+            "path": "rankdetail"
+        }
+    }, {
+        "title": "现代言情榜",
+        "tid": 32,
+        "novelList": [{
+            "title": "陆少的暖婚新妻",
+            "author": "唐玉",
+            "bookId": "4295336769",
+            "cover": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=872682377,3623219167&fm=179&app=35&f=JPEG?w=240&h=320&s=F5D66D3F51436CE80E65F6F103008025",
+            "description": "“苏简安，你是老子的女人，想逃？晚了！” “陆薄言，凭什么你在外面搞三搞四，我就只能守着你一个人？” “苏简安！” “陆薄言，我也要去外面找男……唔……” “闭嘴！老子只有你一个女人！”",
+            "function": "openDetail",
+            "tagList": ["女频", "现代言情", "总裁豪门"],
+            "status": "连载",
+            "followersNum": "1493500"
+        }, {
+            "title": "少帅你老婆又跑了",
+            "author": "明药",
+            "bookId": "4306261898",
+            "cover": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3451552164,718222717&fm=179&app=35&f=JPEG?w=267&h=357&s=CBDF4E925AD969FFDECC4D41030030B2",
+            "description": "少帅说：“我家夫人是乡下女子，不懂时髦，你们不要欺负她！” 　　那些被少帅夫人抢尽了风头的名媛贵妇们欲哭无泪：到底谁欺负谁啊？ 　　少帅又说：“我家夫人娴静温柔，什么中医、枪法，她都不会的！” 　　那些被少帅夫人治好过的病患、被少帅夫人枪杀了的仇敌：少帅您是瞎了吗？ 　　“我家夫人小意柔情，以丈夫为天，我说一她从来不敢说二的！”少帅跪在搓衣板上，一脸豪气云天的说。 　　督军府的众副官：脸是个好东西，拜托少帅您要一下！",
+            "function": "openDetail",
+            "tagList": ["女频", "现代言情", "浪漫言情"],
+            "status": "连载",
+            "followersNum": "1444500"
+        }, {
+            "title": "《总裁爹地超给力》",
+            "author": "席宝儿",
+            "bookId": "4308104602",
+            "cover": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/boxapp_novel/wh%3D315%2C423/sign=beeb24e5fc1fbe091c0bcb175a552007/42a98226cffc1e174fa297a24490f603738de900.jpg",
+            "description": "为了夺走她父亲的股权，她被老公和闺蜜联手设局出轨。一纸离婚扔在脸上，她被迫净身出户。四年后，她携萌宝归来，宝贝儿子双手插腰，“妈咪，听说现在流行认干爹，你等着，我去认一个给你撑腰！”没几天，儿子领回了一个跟他长得一模一样的超级大帅哥。“妈咪你放心，我查过了，爹地全球富豪榜上排名第一，专治各种不服！”儿子自信的说。程漓月：“……”看着惊呆了的女人，宫夜霄冷冷地扔出一份亲子鉴定，“女人，什么时候偷了我的种？”程漓月怒，是哪个混蛋四年前睡了自已却不负责任的？！",
+            "function": "openDetail",
+            "tagList": ["女频", "现代言情", "总裁豪门"],
+            "status": "连载",
+            "followersNum": "4745000"
+        }],
+        "bottom": {
+            "title": "进入现代言情榜",
+            "query": "现代言情榜",
+            "function": "openChannel",
+            "queryParams": [{
+                "cate": "现代言情"
+            }],
+            "path": "rankdetail"
+        }
+    }]
+}
